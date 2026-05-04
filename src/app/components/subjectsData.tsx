@@ -780,7 +780,7 @@ export const richSubjects: RichSubject[] = [
         contentEn: "Since the 1990s, many authors have proposed systems of 'universal laws': 7 laws, 9 laws, 12 laws... These systems draw on historical traditions but often freely reinterpret them.\n\n**Deepak Chopra (7 Spiritual Laws, 1994)**: Pure potential, Giving, Karma, Least effort, Intention and desire, Detachment, Dharma. Well-written synthesis of Hindu and Buddhist principles in contemporary language.\n\n**'12 Laws of Karma'**: modern reformulation without precise source text. Karma in its original traditions is much more complex than the simplified formulas that circulate.\n\n**Value**: these reformulations can be accessible introductions to deep principles. **Limitation**: simplifying millennial traditions into '9 laws' creates distortions. Presenting modern creations as eternal 'universal laws' can be misleading.",
       },
     ],
-    sourcesFr: ['Deepak Chopra — Les 7 Lois Spirituelles du Succès (1994)', 'Le Kybalion — Trois Initiés (1908) — texte en ligne', 'Jan Assmann — Ma'at — Gerechtigkeit und Unsterblichkeit im alten Ägypten (1990)'],
+    sourcesFr: ['Deepak Chopra — Les 7 Lois Spirituelles du Succès (1994)', 'Le Kybalion — Trois Initiés (1908) — texte en ligne', "Jan Assmann — Ma'at — Gerechtigkeit und Unsterblichkeit im alten Ägypten (1990)"],
     relatedIds: ['accords-tolteques', 'pouvoir-intention'],
     lexiconIds: ['karma', 'dharma', 'tao'],
   },
